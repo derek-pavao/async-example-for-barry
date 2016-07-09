@@ -1,0 +1,15 @@
+{
+  "name": "async-example-for-barry",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bl": "^1.1.2",
+    "bluebird": "^3.4.1"
+  }
+}
